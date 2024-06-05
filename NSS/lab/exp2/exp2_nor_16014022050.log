@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Ketaki Mahajan\OneDrive\Desktop\sem 3\NSS\lab\exp2\exp2_nor_16014022050.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Sep  1 06:57:53 2023
+Total elapsed time: 0.025 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 3
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 7
+fillins = 0
+solver = Normal
+Avg thread counts: 12.0/0.0/12.0/12.0
+Matrix Compiler1: 196 bytes object code size
+Matrix Compiler2: 407 bytes object code size
