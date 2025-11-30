@@ -3,7 +3,7 @@
 This repo contains my Semester 3 and Semester 4 subjects, notes, and experiments.
 
 ### Second Year Subjects
-- **ADC** – Analog & Digital Circuits  
+- **ADC** – Analog & Digital Communications  
 - **ADS (Honours)** – Advanced Data Structures (Honors)  
 - **AOA** – Analysis of Algorithms  
 - **CASOT** – Computational and Statistical Optimization Techniques  
@@ -12,7 +12,7 @@ This repo contains my Semester 3 and Semester 4 subjects, notes, and experiments
 - **DM** – Discrete Mathematics  
 - **DS** – Data Structures  
 - **DV (Honours)** – Data Visualization (Honors)  
-- **ITVC** – Introduction to VLSI Circuits  
+- **ITVC** – Integral Transform & Vector Calculus
 - **MPMC** – Microprocessor & Microcontroller  
-- **NSS** – Network & System Security  
+- **NSS** – Networks, Signals & Security
 - **OOP** – Object-Oriented Programming  
