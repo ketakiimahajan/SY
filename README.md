@@ -2,7 +2,7 @@
 
 This repo contains my Semester 3 and Semester 4 subjects, notes, and experiments.
 
-### Semester 3 Subjects
+### Second Year Subjects
 - **ADC** – Analog & Digital Circuits  
 - **ADS (Honours)** – Advanced Data Structures (Honors)  
 - **AOA** – Analysis of Algorithms  
